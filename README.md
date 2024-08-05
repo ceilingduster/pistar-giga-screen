@@ -8,3 +8,4 @@ This is an Arduino sketch using the GIGA R1 WiFi and a display shield to grab th
 
 ## TODO:
 - add a better UI with squareline studio > https://docs.arduino.cc/tutorials/giga-display-shield/square-line-tutorial/
+- embed the icons for the various network modes pi-star supports
