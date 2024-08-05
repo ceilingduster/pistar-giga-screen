@@ -1,5 +1,5 @@
 ## Description:
-This is a arduino sketch using the GIGA R1 WiFi and a display shield to grab the currently transmitted station and display it with the help of LVGL.
+This is an Arduino sketch using the GIGA R1 WiFi and a display shield to grab the currently transmitted station and display it with the help of LVGL.
 
 ## Hardware & Software Needed
 - Arduino GIGA R1 WiFi
